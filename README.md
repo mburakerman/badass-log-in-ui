@@ -1,4 +1,4 @@
-# Badass Log In UI
+# BADass Log In UI
 
 ![Preview](https://media.giphy.com/media/Q7vMtJYIngLqzaCiwZ/giphy.gif)
 
